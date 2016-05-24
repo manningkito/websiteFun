@@ -1,3 +1,17 @@
+.header
+{
+	background-color: #ccc;
+	padding: 1em 2em;
+	margin-bottom: 1em;
+}
+
+.nav
+{
+	background-color: #ccc;
+	padding: 1em 2em;
+	margin-bottom: 1em;
+}
+
 .col1, .col2, .col3
 {
 	float: left;
@@ -7,3 +21,10 @@
 .col1 { width: 48%; }
 .col2 { width: 20%; }
 .col3 { width: 20%; }
+
+.footer
+{
+	clear: both;
+	padding: 1em 2em;
+	background-color: #ccc;
+}
